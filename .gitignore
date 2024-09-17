@@ -1,0 +1,9 @@
+#virtual environment files
+.venv/
+
+#zip file
+NIHR-SemanticSearchRAG-JJ.zip
+
+#pycache
+src\__pycache__\
+
